@@ -1,4 +1,4 @@
-#https://www.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/
+#https://www.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1
 
 class Solution:
     def isRepresentingBST(self, arr, N):

@@ -1,4 +1,4 @@
-//https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1
+#https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1
 
 
     def countWays(self, n, s):
